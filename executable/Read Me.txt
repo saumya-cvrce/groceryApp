@@ -1,0 +1,20 @@
+- There is one spring boot services created for this assignment for which source code can be found under the below link.
+  
+<<GitHub link>>
+  https://github.com/saumya-cvrce/groceryApp/tree/master/grocerystore
+
+- The application can be run by extracting the files from "executable" directory to local system and double clicking the "Startscript.bat" file located under
+  
+ Location to download the executable:
+  https://github.com/saumya-cvrce/groceryApp/tree/master/executable
+
+
+- The application can be accessed by logging into the below url
+  http://localhost:7070
+
+  Provide User Input through the Order Management UI 
+ 
+Note: The initial order value is defaulted for the testing purpose
+   
+   
+   
